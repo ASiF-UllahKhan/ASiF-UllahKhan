@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 Hi, I'm Your Name
+👋 Hi, I'm Asif ullah
 💻 Full-Stack Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Web+Developer;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" alt="Animated typing text" />
